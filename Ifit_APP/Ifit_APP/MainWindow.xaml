@@ -9,6 +9,7 @@
     <Grid>
         <Button Content="Button" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Width="75"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="157,30,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <DataGrid HorizontalAlignment="Left" Height="399" Margin="323,10,0,0" VerticalAlignment="Top" Width="459"/>
 
     </Grid>
 </Window>
